@@ -1,0 +1,732 @@
+# Copyright (C) 2025 WP Radiant
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Luxury Watches 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/luxury-watches\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-21T17:22:09+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: luxury-watches\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Luxury Watches"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/products/free-watches-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Luxury Watches is an exquisite and meticulously crafted WordPress theme that caters to the discerning tastes of watch enthusiasts and luxury aficionados. This theme offers a seamless blend of elegance, sophistication, and functionality, making it an ideal choice for businesses and individuals in the high-end watch industry. At its core, the Luxury Watches theme boasts a sleek and modern layout that showcases timepieces with stunning visuals and detailed information. Its responsive design ensures that the website looks equally impressive on various devices, including desktops, tablets, and smartphones, Smart Watches, Leather Belts Reatil Shop, Ecommerce, Online Store. The theme’s attention to detail is evident in its carefully chosen typography, color palette, and high-resolution imagery, which collectively contribute to an opulent and immersive user experience. A key feature of the Luxury Watches theme is its user-friendly customization options. With a user-friendly interface and intuitive controls, even those without extensive coding experience can effortlessly tailor the website’s appearance to match their brand identity. From adjusting color schemes to selecting different layouts, users can easily create a personalized and unique online presence for their luxury watch business. The theme also places a strong emphasis on product presentation. Its built-in product catalog showcases watches with high-quality images, detailed descriptions, and pricing information. Integrated e-commerce functionality allows businesses to seamlessly set up an online store, facilitating secure transactions and a streamlined shopping experience for customers. Demo: https://preview.wpradiant.net/luxury-watches/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: patterns/footer-default.php:83
+msgid "WP Radiant"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/"
+msgstr ""
+
+#: get-started/getstart.php:8
+msgid "https://wordpress.org/support/theme/luxury-watches/"
+msgstr ""
+
+#: get-started/getstart.php:9
+msgid "https://wordpress.org/support/theme/luxury-watches/reviews/#new-post"
+msgstr ""
+
+#: get-started/getstart.php:10
+#: get-started/notice.php:3
+msgid "https://www.wpradiant.net/products/watch-store-wordpress-theme"
+msgstr ""
+
+#: get-started/getstart.php:11
+msgid "https://preview.wpradiant.net/tutorial/luxury-watches/"
+msgstr ""
+
+#: get-started/getstart.php:12
+msgid "https://preview.wpradiant.net/luxury-watches/"
+msgstr ""
+
+#: get-started/getstart.php:13
+msgid "https://preview.wpradiant.net/tutorial/luxury-watches-pro/"
+msgstr ""
+
+#: get-started/getstart.php:57
+msgid "Buy Now"
+msgstr ""
+
+#: get-started/getstart.php:60
+msgid "Demo"
+msgstr ""
+
+#: get-started/getstart.php:63
+msgid "Documentation"
+msgstr ""
+
+#: get-started/getstart.php:84
+msgid "Secondary menu"
+msgstr ""
+
+#: get-started/getstart.php:85
+msgid "About"
+msgstr ""
+
+#: get-started/getstart.php:87
+msgid "Compare free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:89
+msgid "Changelog"
+msgstr ""
+
+#: get-started/getstart.php:110
+msgid "Free Theme Directives"
+msgstr ""
+
+#: get-started/getstart.php:113
+msgid "This article will walk you through the different phases of setting up and handling your WordPress website."
+msgstr ""
+
+#: get-started/getstart.php:117
+msgid "Free Documentation"
+msgstr ""
+
+#: get-started/getstart.php:124
+msgid "Full Site Editing"
+msgstr ""
+
+#: get-started/getstart.php:127
+msgid "We have used Full Site Editing which will help you preview your changes live and fast."
+msgstr ""
+
+#: get-started/getstart.php:131
+msgid "Use Site Editor"
+msgstr ""
+
+#: get-started/getstart.php:138
+msgid "Leave us a review"
+msgstr ""
+
+#: get-started/getstart.php:140
+msgid "We would love to hear your feedback."
+msgstr ""
+
+#: get-started/getstart.php:144
+msgid "Review"
+msgstr ""
+
+#: get-started/getstart.php:152
+msgid "Help &amp; Support"
+msgstr ""
+
+#: get-started/getstart.php:155
+msgid "If you have any question/feedback regarding theme, please post in our official support forum."
+msgstr ""
+
+#: get-started/getstart.php:159
+msgid "Get Support"
+msgstr ""
+
+#: get-started/getstart.php:177
+msgid "Want to know whats been happening with the latest changes?"
+msgstr ""
+
+#: get-started/getstart.php:238
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:242
+msgid "Theme Features"
+msgstr ""
+
+#: get-started/getstart.php:243
+msgid "Free Theme"
+msgstr ""
+
+#: get-started/getstart.php:244
+msgid "Pro Theme"
+msgstr ""
+
+#: get-started/getstart.php:249
+msgid "Responsive Design"
+msgstr ""
+
+#: get-started/getstart.php:254
+msgid "Painless Setup"
+msgstr ""
+
+#: get-started/getstart.php:259
+msgid "Color Options"
+msgstr ""
+
+#: get-started/getstart.php:264
+msgid "Premium site demo"
+msgstr ""
+
+#: get-started/getstart.php:269
+msgid "Multiple Block Layout"
+msgstr ""
+
+#: get-started/getstart.php:274
+msgid "Premium Patterns"
+msgstr ""
+
+#: get-started/getstart.php:279
+msgid "Multiple Fonts"
+msgstr ""
+
+#: get-started/getstart.php:284
+msgid "Slider Block"
+msgstr ""
+
+#: get-started/getstart.php:289
+msgid "Post Listing Block"
+msgstr ""
+
+#: get-started/getstart.php:294
+msgid "WooCommerce Filter Block"
+msgstr ""
+
+#: get-started/getstart.php:299
+msgid "Gallery Block"
+msgstr ""
+
+#: get-started/getstart.php:304
+msgid "Post Carousel Block"
+msgstr ""
+
+#: get-started/getstart.php:311
+msgid "Buy It Now"
+msgstr ""
+
+#: get-started/notice.php:5
+msgid "https://www.wpradiant.net/products/wordpress-theme-bundle"
+msgstr ""
+
+#: get-started/notice.php:47
+msgid "Welcome to Luxury Watches"
+msgstr ""
+
+#: get-started/notice.php:48
+msgid "Enhance Your Website Development with Radiant Blocks!!"
+msgstr ""
+
+#: get-started/notice.php:51
+msgid "Effortlessly craft websites for any niche with Radiant Blocks! Experience seamless functionality and stunning responsiveness as you enhance your digital presence with Block WordPress Themes. Start building your ideal website today!"
+msgstr ""
+
+#: get-started/notice.php:53
+msgid "Getting started"
+msgstr ""
+
+#: get-started/notice.php:55
+msgid "Buy Now "
+msgstr ""
+
+#: get-started/notice.php:57
+msgid "Get Bundle"
+msgstr ""
+
+#: inc/block-pattern.php:61
+msgid "Luxury Watches Patterns"
+msgstr ""
+
+#: inc/block-style.php:27
+msgid "Borders"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Luxury Watches Pro"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Upgrade Pro"
+msgstr ""
+
+#: patterns/404-page.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:11
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:15
+msgid "404"
+msgstr ""
+
+#: patterns/404-page.php:19
+msgid "Unfortunately we can’t find that page."
+msgstr ""
+
+#: patterns/404-page.php:23
+msgid "The page you are looking for doesnt exist or has been moved. Try another url or go to the site homepage."
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:11
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "LUXURY WATCHES"
+msgstr ""
+
+#: patterns/banner.php:26
+msgid "THE MOST LUXURIOUS WATCH BRAND"
+msgstr ""
+
+#: patterns/banner.php:26
+msgid "IN THE WORLD. A TIMELESS MASTERPIECE"
+msgstr ""
+
+#: patterns/banner.php:33
+msgid "SHOP COLLECTION"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:11
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:17
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:21
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/footer-default.php:27
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer-default.php:45
+msgid "Information"
+msgstr ""
+
+#: patterns/footer-default.php:63
+msgid "Contact US"
+msgstr ""
+
+#: patterns/footer-default.php:67
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:75
+msgid "123, Red Hills, Chicago,IL, USA"
+msgstr ""
+
+#: patterns/footer-default.php:83
+msgid "Luxury Watches WordPress Theme"
+msgstr ""
+
+#: patterns/footer-default.php:83
+msgid " By "
+msgstr ""
+
+#: patterns/footer-default.php:83
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer-default.php:83
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:11
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php:15
+msgid "FREE HEAVY SHIPPING ON ORDER OVER $200"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:11
+msgid "Sidebar Section"
+msgstr ""
+
+#: patterns/primary-sidebar.php:17
+msgid "Search"
+msgstr ""
+
+#: patterns/primary-sidebar.php:29
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:55
+msgid "Archieve"
+msgstr ""
+
+#: patterns/primary-sidebar.php:67
+msgid "Category"
+msgstr ""
+
+#: patterns/primary-sidebar.php:79
+msgid "Social"
+msgstr ""
+
+#: patterns/product-section.php
+msgctxt "Pattern title"
+msgid "Product Section"
+msgstr ""
+
+#: patterns/product-section.php:11
+msgid "Product Section"
+msgstr ""
+
+#: patterns/product-section.php:21
+msgid "SOME OF OUR FAVORITES."
+msgstr ""
+
+#: patterns/product-section.php:28
+msgid "VIEW ALL"
+msgstr ""
+
+#: patterns/product-section.php:41
+#: patterns/product-section.php:55
+#: patterns/product-section.php:69
+#: patterns/product-section.php:85
+#: patterns/product-section.php:99
+#: patterns/product-section.php:113
+msgid "Olevs Luxury Quartz Sports Chronograph"
+msgstr ""
+
+#: patterns/product-section.php:41
+#: patterns/product-section.php:55
+#: patterns/product-section.php:69
+#: patterns/product-section.php:85
+#: patterns/product-section.php:99
+#: patterns/product-section.php:113
+msgid "Waterproof Analog Watch"
+msgstr ""
+
+#: patterns/search-header.php
+msgctxt "Pattern title"
+msgid "Search Header"
+msgstr ""
+
+#: patterns/search-header.php:11
+msgid "Search Header"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search Page"
+msgstr ""
+
+#: patterns/search.php:11
+msgid "Search Page"
+msgstr ""
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Lite Green"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fourground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secbackground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/purple.json
+#: styles/red.json
+#: styles/yellow.json
+#: theme.json
+msgctxt "Color name"
+msgid "tertiary"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr ""
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr ""
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Lite Pink"
+msgstr ""
+
+#: styles/yellow.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar Products"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Post (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Barlow Condensed"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto Flex"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Marhey"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""
